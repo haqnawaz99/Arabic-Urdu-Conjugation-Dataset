@@ -36,3 +36,21 @@ To download and use the dataset:
 1. Clone the repository:
    ```bash
    git clone https://github.com/haqnawaz99/Arabic-Urdu-Conjugation-Dataset.git
+
+## Citation
+If you use this dataset in your research or applications, please cite the following paper:
+
+> Haq Nawaz, Manal Elobaid, Ali Al-Laith, and Saif Ullah,  
+> "Automated Generation of Arabic Verb Conjugations with Multilingual Urdu Translation: An NLP Approach,"  
+> COLING 2025.  
+
+You can use the following BibTeX entry for academic citations:
+
+```bibtex
+@inproceedings{nawaz2025arabic,
+  title={Automated Generation of Arabic Verb Conjugations with Multilingual Urdu Translation: An NLP Approach},
+  author={Nawaz, Haq and Elobaid, Manal and Al-Laith, Ali and Ullah, Saif},
+  booktitle={Proceedings of the 1st Workshop on NLP for Languages Using Arabic Script (AbjadNLP 2025), COLING 2025},
+  year={2025}
+}
+
